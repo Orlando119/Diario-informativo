@@ -1,0 +1,100 @@
+*{
+   margin:0;
+   padding: 0;
+   font-family: arial,sans-serif; 
+   box-sizing: border-box;
+}
+header{
+    
+    width: 100%;
+    background-color: aqua;
+    height: 100%; 
+}
+
+.header img {
+    float: center;
+    height: 90%;
+    width: auto;
+    display: block;
+    
+
+}
+
+nav{
+    float: right;
+}
+nav a {
+    padding: 10px 20px;
+    color:olivedrab;
+    text-decoration: none;
+    line-height: 70px;
+    font-weight: bold;
+    border-radius: 5px;
+     transition: all 1s;
+}
+    nav a:hover {
+        background-color: aquamarine;
+        color:black;
+    }
+
+.muro1{
+    float: right;
+}
+.muro1 img{
+    width: 50%;
+    height: auto;
+    border-radius: 5px;
+}
+.muro1 h1{
+    line-height: 70px;
+}
+.Descripcion{
+    width: 100%;
+    background: #fff;
+    padding: 100px 0px;
+    text-align:center; 
+}
+.Descripcion h1{
+    line-height: 20px;
+}
+.Descripcion h2{
+    line-height: 40px;
+}
+.Descripcion h3{
+    line-height: 50px;
+}
+.servicios img{
+    width: 10%;
+    height: auto;
+
+
+}
+.servicios{
+    text-align:center;
+    width: 980%;
+    list-style: none;
+    margin: 0 auto;
+}
+.servicios li{
+    float:left;
+    width: 200px;
+    height: 200px;
+    text-align:center;
+    background:gainsboro ;
+    color: black;
+    margin: 20px;
+    border-radius: 5px;
+}
+.serviccios li img{
+
+    height: 70px;
+    width: 50px;
+    margin: 30px auto;
+    display:block;
+    
+}
+footer{
+    width: 100%;
+    background:gainsboro;
+    text-align: center;
+}
