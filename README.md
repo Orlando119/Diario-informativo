@@ -1,2 +1,2 @@
-# Diario-informativo
-Diario informativo
+# Diario-informativo Sobre Noticias de Bomberos del Mundo
+Noticias de Bomberos 
